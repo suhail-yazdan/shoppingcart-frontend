@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/suhail-yazdan.github.io/shoppingcart-frontend/static/css/main.d244b5b9.css",
+    "main.js": "/suhail-yazdan.github.io/shoppingcart-frontend/static/js/main.dc4000e4.js",
+    "static/js/787.afef7293.chunk.js": "/suhail-yazdan.github.io/shoppingcart-frontend/static/js/787.afef7293.chunk.js",
+    "index.html": "/suhail-yazdan.github.io/shoppingcart-frontend/index.html",
+    "main.d244b5b9.css.map": "/suhail-yazdan.github.io/shoppingcart-frontend/static/css/main.d244b5b9.css.map",
+    "main.dc4000e4.js.map": "/suhail-yazdan.github.io/shoppingcart-frontend/static/js/main.dc4000e4.js.map",
+    "787.afef7293.chunk.js.map": "/suhail-yazdan.github.io/shoppingcart-frontend/static/js/787.afef7293.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d244b5b9.css",
+    "static/js/main.dc4000e4.js"
+  ]
+}
